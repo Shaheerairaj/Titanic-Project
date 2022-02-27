@@ -4,7 +4,7 @@ This is my attempt at the popular data science competition on Kaggle "Titanic - 
 
 ## Folders:
 
-The "Data" folder contains all the data we will be working with for this project. It contains a training set, test set and an example submisison file.
+The "Data" folder contains all the data we will be working with for this project. It contains a training set, test set and an example submission file.
 
 Data source: https://www.kaggle.com/c/titanic/data
 
