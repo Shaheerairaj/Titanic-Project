@@ -11,3 +11,9 @@ Data source: https://www.kaggle.com/c/titanic/data
 ## Jupyter Notebooks:
 
 The "titanic.ipynb" will be the main notebook that I will be using for all analysis.
+
+## References:
+
+I'll be adding links to any notebooks, articles, papers that I have used in this project here
+
+1. Ken Jees' attempt: https://www.kaggle.com/kenjee/titanic-project-example
